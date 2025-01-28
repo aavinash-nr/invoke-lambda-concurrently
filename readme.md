@@ -9,3 +9,6 @@ This project contains three Python scripts: `concurrentLambda.py`, `invokeLambda
 - `invokeRestAPI.py`: This script invokes a Lambda function using REST API calls.
 
 Each script allows you to specify the number of invocations and the duration over which the invocations should occur.
+
+# Collabration: 
+- Please feel free to update the code and raise PR.
